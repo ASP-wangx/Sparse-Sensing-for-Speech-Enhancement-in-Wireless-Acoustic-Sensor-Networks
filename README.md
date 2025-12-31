@@ -1,1 +1,5 @@
 # Sparse-Sensing-for-Speech-Enhancement-in-Wireless-Acoustic-Sensor-Networks
+
+
+
+- run test.m
